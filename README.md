@@ -124,7 +124,7 @@ start.bat
 
 Гифка работы программы:
 
-![Gif1](Start_fly2.gif)
+![Gif1](imaged/Start_fly2.gif)
 
 ![Рис. 1](imaged/photo_2025-04-24_02-27-49.jpg)
 ![Рис. 2](imaged/photo_2025-04-24_02-28-06.jpg)
