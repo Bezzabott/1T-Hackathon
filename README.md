@@ -124,7 +124,7 @@ start.bat
 
 Гифка работы программы:
 
-![Gif1](Repository/Start_fly__2_.gif)
+![Gif1](Repository/Start_fly2.gif)
 
 Ссылки на полное прохождение карты на YouTube и Rutube:
 
