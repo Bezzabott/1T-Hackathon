@@ -124,9 +124,12 @@ start.bat
 
 Гифка работы программы:
 
-![Gif1](https://gitlab.data.1t.ru/data-hack/SwarmIntelligenceHackathon25-1170/-/blob/main/Start_fly2.gif?ref_type=heads)
+![Gif1](Start_fly2.gif)
 
-Ссылки на полное прохождение карты на YouTube и Rutube:
+![Рис. 1](imaged/photo_2025-04-24_02-27-49.jpg)
+![Рис. 2](imaged/photo_2025-04-24_02-28-06.jpg)
+![Рисю 3](imaged/photo_2025-04-24_02-28-18.jpg)
+
 
 
 ## 👥 Команда
