@@ -101,6 +101,8 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://gitlab.data.1t.ru/data-hack/SwarmIntelligenceHackathon25-1170
+```
+```bash
 cd <название_папки>
 ```
 
@@ -109,9 +111,10 @@ cd <название_папки>
 
 ```bash
 python main.py
+```
+```bash
 start.bat
 ```
-
 4. Переподключите симулятор (кнопка в самом симуляторе).
 
 ---
