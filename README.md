@@ -132,7 +132,7 @@ start.bat
 ![Рис. 2](imaged/photo_2025-04-24_02-28-06.jpg)
 ![Рисю 3](imaged/photo_2025-04-24_02-28-18.jpg)
 
-
+Ссылка на YouTube - https://www.youtube.com/watch?v=p4jZDA7AOyg
 
 ## 👥 Команда
 
